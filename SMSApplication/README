@@ -1,1 +1,2 @@
 The user can query particular number plate registered in the database and receive information concerning the rider of the bike 
+Follow the necessary setps  during installation of the diaffan server and intall msql connector odbc , and the php file should be in the project folder under htdocs in the xampp folder 
